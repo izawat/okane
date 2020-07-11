@@ -36,3 +36,4 @@ Cloned 1 file.
 - `npm install @google/clasp tslint -D`
 - `npm install @types/google-apps-script -S`
 - `tslint --init`
+- `npm install prettier tslint-config-prettier tslint-plugin-prettier -D`

@@ -19,7 +19,10 @@
   "homepage": "https://github.com/izawat/okane#readme",
   "devDependencies": {
     "@google/clasp": "^2.3.0",
-    "tslint": "^6.1.2"
+    "prettier": "^2.0.5",
+    "tslint": "^6.1.2",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-plugin-prettier": "^2.3.0"
   },
   "dependencies": {
     "@types/google-apps-script": "^1.0.14"
