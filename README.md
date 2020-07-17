@@ -5,6 +5,10 @@
   - `npm i @google/clasp -g`
 - googleアカウントにログイン
   - `clasp login`
+- push
+  - `clasp push`
+- open
+  - `clasp open`
 
 # 新規作成
 - `clasp create okane-app`
